@@ -8,6 +8,6 @@ Some items:
  
  ### Subtitle level 3
  
- __ text bold __
+ __text bold__
  
  
