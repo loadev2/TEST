@@ -7,6 +7,7 @@ Some items:
  ## Subtitle 1
  
  ### Subtitle level 3
+ ~text~
  
  __text bold__
  
